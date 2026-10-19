@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NEP-brothers.aternos.me:64608",
-    "port": 27586,
-    "version": "",
+    "ip": "NEP-brothers.aternos.me",
+    "port": 64608,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
