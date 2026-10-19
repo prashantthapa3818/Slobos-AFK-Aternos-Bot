@@ -8,7 +8,7 @@
   "server": {
     "ip": "NEP-brothers.aternos.me",
     "port": 64608,
-    "version": "26.3",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
